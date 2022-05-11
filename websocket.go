@@ -17,7 +17,7 @@ var (
 type ServerMessage struct {
 }
 
-var WEB_SOCKET_URL = "wss://democmsapi.cqg.com"
+var WEB_SOCKET_URL = ""
 
 func main() {
 
